@@ -40,9 +40,12 @@ Clone the repo
 git clone https://github.com/Gerardo02/gotth-template.git
 ```
 ```bash
+cd gotth-template
+```
+```bash
 make install
 ```
 
-Consider changing the HTMX tag in the base component from a CDN to a local file.
+Consider changing the HTMX tag in the ./view/layout/base.templ component from a CDN to a local file.
 <br />
 Enjoy your Javascript free experience
