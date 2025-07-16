@@ -46,6 +46,16 @@ cd gotth-template
 make install
 ```
 
+## Running it
+```bash
+make templ
+```
+or
+```bash
+air
+```
+For live refresh on save.
+
 Consider changing the HTMX tag in the ./view/layout/base.templ component from a CDN to a local file.
 <br />
 Enjoy your Javascript free experience
