@@ -38,11 +38,7 @@ npm install tailwindcss @tailwindcss/cli
 Clone the repo
 ```bash
 git clone https://github.com/Gerardo02/gotth-template.git
-```
-```bash
 cd gotth-template
-```
-```bash
 make install
 ```
 
